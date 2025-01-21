@@ -4,4 +4,4 @@ I am a software developer, canoeist, gardener and and all-round tinkerer. I love
 
 My work often focuses on performance improvements and coaching teams in code design choices. I value thoughtful communication that amplifies marginalized voices in the workplace.
 
-I write at [enumerator.dev](enumerator.dev)
+I write at [enumerator.dev](https://enumerator.dev)
