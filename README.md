@@ -9,4 +9,4 @@ What I'm up to:
 - Building [willow.camp](https://willow.camp), a blogging platform
 - Making banking better at [Wealthsimple](https://www.wealthsimple.com/)
 
-📧 [Drop me a line on Letterbird]([url](https://letterbird.co/cassia)).
+📧 [Drop me a line on Letterbird](https://letterbird.co/cassia).
