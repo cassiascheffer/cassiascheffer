@@ -1,7 +1,12 @@
-### Hi there 👋
+### 👋 Hi
 
-I am a software developer, canoeist, gardener and and all-round tinkerer. I love the range of work I get to do as a developer.
+I'm a software developer who loves the variety that comes with the the work. When I'm not debugging or refactoring, you'll find me canoing, gardening, or tinkering with whatever catches my curiosity.
 
-My work often focuses on performance improvements and coaching teams in code design choices. I value thoughtful communication that amplifies marginalized voices in the workplace.
+I'm passionate about creating inclusive workplaces where thoughtful communication amplifies marginalized voices. Code is just one way we can build better communities.
 
-I write at [enumerator.dev](https://enumerator.dev)
+What I'm up to:
+- Writing about development at [enumerator.dev](https://enumerator.dev)
+- Building [willow.camp](https://willow.camp), a blogging platform
+- Making banking better at [Wealthsimple](https://www.wealthsimple.com/)
+
+📧 [Drop me a line on Letterbird]([url](https://letterbird.co/cassia)).
