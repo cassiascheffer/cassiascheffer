@@ -1,10 +1,5 @@
-### 👋 Hi
+Well, hello there! I'm a software developer working for a fintech and building a blogging platform in my spare time.
 
-When I'm not coding, you'll find me canoing, gardening, or reading murder mysteries.
-
-What I'm up to:
-- Writing about development at [enumerator.dev](https://enumerator.dev)
-- Building [willow.camp](https://willow.camp), a blogging platform
-- Making banking better at [Wealthsimple](https://www.wealthsimple.com/)
+I write about the software industry and my work on willow.camp at [enumerator.dev](https://enumerator.dev). I'd love it if you checked out [willow.camp](https://willow.camp) and let me know what you think.
 
 📧 [Email me through Letterbird](https://letterbird.co/cassia).
